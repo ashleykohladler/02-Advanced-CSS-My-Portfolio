@@ -18,30 +18,30 @@ header {
 }
 
 nav {
-    display: flex;
+    display: block;
     background-color: #fff;
     padding: 10px;
     margin: auto;
 }
 
-nav a {
+ nav a {
     color: #13293d;
     padding: 14px 20px;
-    text-decoration: none;
+    text-decoration: none; 
     text-align: center;
-}
+} 
 
 aside {
     flex-wrap: wrap;
     background-color: cornsilk;
-    padding: 40px;
+    padding: 30px;
     text-align: center;
     margin-left: auto;
     border-style: solid;
-    border-width: 3px;
+    border-width: 2px;
     border-radius: 10px;
     width: 25%;
-    height: 200%;
+    height: 150%;
     float: left;
     
 }
@@ -58,6 +58,10 @@ h2 {
 }
 
 footer {
+    display: flex; 
+    /* position: fixed;
+    bottom: 0%; */
+    flex-direction: row;
     flex-wrap: wrap;
     padding: 20px;
     text-align: center;
@@ -66,15 +70,42 @@ footer {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 .project {
     border-style: solid;
     border-width: 2px;
-    border-radius: 20px;
+    border-radius: 10px;
     padding: 30px;
     flex: 0 0 400px;
     width: 75%;
     float: right;
     justify-content: space-between;
+    background-color: cornsilk;
+}
+
+.row {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px; 
+    padding: 150px;
+    flex: 0 0 400px;
+    width: 75%;
+    height: 100%;
+
+}
+
+.column {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 40px;
+    flex: 0 0 400px;
+    width: 37.5%;
+
 }
 
 .responsive {
