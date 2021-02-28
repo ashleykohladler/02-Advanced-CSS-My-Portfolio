@@ -19,7 +19,7 @@
 * I added media queries.
 
 ## Link to Website
- 
+https://ashleykohladler.github.io/02-Advanced-CSS-My-Portfolio/
 
 ## Screenshot
 ![Screenshot](Assets/images/HW2_Screenshot.png)
