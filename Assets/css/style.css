@@ -103,6 +103,7 @@ footer {
     float: right;
     justify-content: space-between;
     background-color: whitesmoke;
+    color: white;
 }
 
 .row {
@@ -114,7 +115,7 @@ footer {
     width: 75%;
     height: 100%;
     color: white;
-    background-image: url("../images/code.png");
+    background-image: url("/Users/ashleykohladler/Desktop/homework/02-Advanced-CSS-My-Portfolio/Assets/images/Project1pic.png");
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 30px;
@@ -132,13 +133,18 @@ footer {
     flex: 0 0 400px;
     width: 37.5%;
     background-color: snow;
-    background-image: url("../images/code.png");
+    /* background-image: url("/Users/ashleykohladler/Desktop/homework/02-Advanced-CSS-My-Portfolio/Assets/images/weather.png"); */
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color:black;
     font-size: 20px;
 
 }
+
+/* .homework2 {
+    background-image: url("/Users/ashleykohladler/Desktop/homework/02-Advanced-CSS-My-Portfolio/Assets/images/workday.png");
+    color:black
+} */
 
 .responsive {
     width: 100%;
