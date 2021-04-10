@@ -133,7 +133,7 @@ footer {
     flex: 0 0 400px;
     width: 37.5%;
     background-color: snow;
-    /* background-image: url("/Users/ashleykohladler/Desktop/homework/02-Advanced-CSS-My-Portfolio/Assets/images/weather.png"); */
+    background-image: url("/Users/ashleykohladler/Desktop/homework/02-Advanced-CSS-My-Portfolio/Assets/images/weather2.png"); 
     background-repeat: no-repeat;
     background-size: cover;
     color:black;
@@ -141,10 +141,10 @@ footer {
 
 }
 
-/* .homework2 {
+.homework2 {
     background-image: url("/Users/ashleykohladler/Desktop/homework/02-Advanced-CSS-My-Portfolio/Assets/images/workday.png");
     color:black
-} */
+} 
 
 .responsive {
     width: 100%;
