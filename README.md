@@ -1,25 +1,62 @@
 # 02-Advanced-CSS-My-Portfolio
 
-# Homework 2
 
-## Description of my work 
 
-**HTML**
 
-* I created a header with a navigation bar to my about me, work and contact me sections.
+1. [Description](#Description)
+2. [Features](#Features)
+3. [Installation](#installation)
+3. [License](#License)
+4. [Contributing](#Contributing)
+5. [Questions](#Questions)
+6. [Screenshot](#screenshot)
 
-* I added an aside for the about me section and created projects 1, 2 & 3 for my future work.
+# Description 
 
-* I created a footer for the contact me section, including links to my email, github, linkedin and more. 
+The purpose of this task is to create a portfolio that includes and About Me, Contact Details and examples of work. Links in the navigation will redirect to the correct section related to the link. 
 
-**CSS**
 
-* I added comments to describe styling for each section. 
+# Features
+- Express.js
+- Node.js
+- NPM
+- MySQL
+- Sequelize
+- dotENV
+- express-handlebars
+- bcrypt
 
-* I added media queries.
+# License
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+## This application is covered by the MIT license. 
+
+
+# Contributing
+Contributions are excepted. Fill free to fork. 
+
+# Questions
+## GitHub User name 
+ashleykohladler
 
 ## Link to Website
 https://ashleykohladler.github.io/02-Advanced-CSS-My-Portfolio/
 
 ## Screenshot
 ![Screenshot](Assets/images/HW2_Screenshot.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
